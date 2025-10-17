@@ -3,5 +3,5 @@
     "vers":"0.1.0",
     "deps":[],
     "dl":"https://github.com/PriestessLang//prts-packages/releases/download/stringlib-0.1.0/stringlib-0.1.0.tar.gz",
-    "checksum":"abc123"
+    "checksum":"c2ded154021ef501a5411cf1bda18a09b94914cfef3b4580eb6db27763d36812"
 }
