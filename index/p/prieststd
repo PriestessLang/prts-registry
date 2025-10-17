@@ -1,0 +1,6 @@
+{
+    "name":"prieststd",
+    "vers":"0.1.0",
+    "deps":[],
+    "dl":"https://github.com/<PriestessLang>/prts-packages/releases/download/prieststd-0.1.0/prieststd-0.1.0.tar.gz",
+    "checksum":"def456"}
